@@ -1,0 +1,48 @@
+.breadcrumb {
+	padding-left: 0;
+	padding-right: 0;
+	background-color: white;
+}
+/*! This comment will be included even in compressed mode. */
+#navbar-breadcrumbs {
+	a {
+		margin-right: 10px;
+		color: white !important;
+		text-decoration: none;
+		
+		&:hover {
+			color: rgba(255, 255, 255, 0.8) !important;
+			text-decoration: underline;
+		}
+		
+		&:before {
+			// content: #{"/*!rtl:var(--left-arrow-svg);*/"}var(--right-arrow-svg);
+			content: "/";
+			display: inline-block;
+			margin-right: 10px;
+			color: white;
+		}
+	}
+
+	li:first-child a:before {
+		// no angle before first item
+		content: none;
+	}
+
+	li.disabled {
+		a {
+			pointer-events: none;
+			color: rgba(255, 255, 255, 0.6) !important;
+		}
+	}
+
+	li:last-child {
+		font-weight: var(--weight-semibold);
+		color: white !important;
+	}
+	
+	// Make sure all text in breadcrumbs is white
+	li {
+		color: white !important;
+	}
+}

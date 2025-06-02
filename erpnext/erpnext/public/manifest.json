@@ -1,0 +1,132 @@
+{
+  "name": "OMEX ERP",
+  "short_name": "OMEX ERP",
+  "description": "Complete ERP solution with AI assistant and barcode scanning",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#061142",
+  "theme_color": "#061142",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "/assets/erpnext/images/omex-icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/erpnext/images/omex-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Scan Barcode",
+      "short_name": "Scan",
+      "description": "Quick barcode scanning",
+      "url": "/app/item?scan=true",
+      "icons": [
+        {
+          "src": "/assets/erpnext/images/barcode-icon-96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "AI Assistant",
+      "short_name": "AI Chat",
+      "description": "Chat with AI assistant",
+      "url": "/app?ai=true",
+      "icons": [
+        {
+          "src": "/assets/erpnext/images/ai-icon-96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Sales",
+      "short_name": "Sales",
+      "description": "Sales management",
+      "url": "/app/selling",
+      "icons": [
+        {
+          "src": "/assets/erpnext/images/sales-icon-96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Inventory",
+      "short_name": "Items",
+      "description": "Inventory management",
+      "url": "/app/stock",
+      "icons": [
+        {
+          "src": "/assets/erpnext/images/stock-icon-96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "permissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "notifications",
+    "persistent-storage"
+  ],
+  "features": [
+    "barcode-scanning",
+    "ai-assistant",
+    "offline-support",
+    "push-notifications"
+  ]
+} 
