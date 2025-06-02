@@ -1,0 +1,897 @@
+{
+  "total_topics": 176,
+  "topics_by_module": {
+    "Buying": 12,
+    "General": 74,
+    "Accounts": 11,
+    "Selling": 17,
+    "Stock": 38,
+    "Setup": 5,
+    "Manufacturing": 13,
+    "Users & Permissions": 5,
+    "CRM": 1
+  },
+  "integration_date": "/home/aqeeladam20/frappe-development/frappe-bench-latest/apps",
+  "topics": [
+    {
+      "name": "OMEX Supplier Scorecard",
+      "description": "Supplier Scorecard",
+      "subtopics_count": 13
+    },
+    {
+      "name": "OMEX Purchase Transactions",
+      "description": "Purchase Transactions",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Buying Reports",
+      "description": "Buying Reports",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Buying",
+      "description": "Introduction to Buying Module",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Supplier Essentials",
+      "description": "Supplier Essentials",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Discounts",
+      "description": "Applying Discounts",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Taxes",
+      "description": "Taxes",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Purchase Order",
+      "description": "Purchase Order",
+      "subtopics_count": 25
+    },
+    {
+      "name": "OMEX Material Request",
+      "description": "Material Request",
+      "subtopics_count": 16
+    },
+    {
+      "name": "OMEX Buying Settings",
+      "description": "Buying Settings",
+      "subtopics_count": 24
+    },
+    {
+      "name": "OMEX Purchase Invoice",
+      "description": "Purchase Invoice",
+      "subtopics_count": 37
+    },
+    {
+      "name": "OMEX Debit Note",
+      "description": "Debit Note",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Request For Quotation",
+      "description": "Request for Quotation",
+      "subtopics_count": 17
+    },
+    {
+      "name": "OMEX Supplier Quotation",
+      "description": "Supplier Quotation",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX How To Create A Supplier Quotation Through The Supplier Portal",
+      "description": "Create Supplier Quotation through Supplier Portal",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Supplier Group",
+      "description": "Supplier Group",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Supplier",
+      "description": "Supplier",
+      "subtopics_count": 15
+    },
+    {
+      "name": "OMEX Customer",
+      "description": "Customer",
+      "subtopics_count": 17
+    },
+    {
+      "name": "OMEX Customer Group",
+      "description": "Customer Group",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Purchase Return",
+      "description": "Purchase Return",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Sales Person",
+      "description": "Sales Person",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Sales Partner",
+      "description": "Sales Partner",
+      "subtopics_count": 13
+    },
+    {
+      "name": "OMEX Territory",
+      "description": "Territory",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Sales Order",
+      "description": "Sales Order",
+      "subtopics_count": 26
+    },
+    {
+      "name": "OMEX Sales Invoice",
+      "description": "Sales Invoice",
+      "subtopics_count": 38
+    },
+    {
+      "name": "OMEX Quotation",
+      "description": "Quotation",
+      "subtopics_count": 21
+    },
+    {
+      "name": "OMEX Credit Note",
+      "description": "Credit Note",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Blanket Order",
+      "description": "Blanket Order",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Drop Shipping In OMEX",
+      "description": "Drop Ship",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Delivery Note",
+      "description": "Delivery Note",
+      "subtopics_count": 32
+    },
+    {
+      "name": "OMEX Point Of Sales",
+      "description": "Point of Sale",
+      "subtopics_count": 14
+    },
+    {
+      "name": "OMEX Sales Return",
+      "description": "Sales Return",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Pos Invoice Consolidation",
+      "description": "POS Invoice Consolidation",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Pos Profile",
+      "description": "Point of Sale Profile",
+      "subtopics_count": 15
+    },
+    {
+      "name": "OMEX Loyalty Program",
+      "description": "Loyalty Program",
+      "subtopics_count": 12
+    },
+    {
+      "name": "OMEX Loyalty Points Redemption In Pos",
+      "description": "Loyalty points redemption in POS",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Selling Settings",
+      "description": "Selling Settings",
+      "subtopics_count": 25
+    },
+    {
+      "name": "OMEX Sales Analytics",
+      "description": "Sales Reports",
+      "subtopics_count": 7
+    },
+    {
+      "name": "Stock Entries",
+      "description": "Stock Entries",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Opening Stock",
+      "description": "Opening Stock",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Item",
+      "description": "Item and Pricing",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Batch Inventory",
+      "description": "Batch Inventory",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Item Variant",
+      "description": "Item Variant",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Serialized Inventory",
+      "description": "Serialized Inventory",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Item",
+      "description": "Item",
+      "subtopics_count": 30
+    },
+    {
+      "name": "OMEX Item Group",
+      "description": "Item Group",
+      "subtopics_count": 12
+    },
+    {
+      "name": "OMEX Brand",
+      "description": "Brand",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Product Bundle",
+      "description": "Product Bundle",
+      "subtopics_count": 10
+    },
+    {
+      "name": "OMEX Manufacturer",
+      "description": "Manufacturer",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Item Variants",
+      "description": "Item Variants",
+      "subtopics_count": 10
+    },
+    {
+      "name": "OMEX Item Alternative",
+      "description": "Item Alternative",
+      "subtopics_count": 10
+    },
+    {
+      "name": "OMEX Item Attribute",
+      "description": "Item Attribute",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Warehouse",
+      "description": "Warehouse",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Uom",
+      "description": "Unit of Measure (UoM)",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Managing Fractions In Uom",
+      "description": "Managing Fractions in UOM",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Inventory Dimension",
+      "description": "Inventory Dimension",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Pricing",
+      "description": "Pricing",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Price Lists",
+      "description": "Price Lists",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Item Price",
+      "description": "Item Price",
+      "subtopics_count": 15
+    },
+    {
+      "name": "OMEX Setup Shipping Rule",
+      "description": "Shipping Rule",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Pricing Rule",
+      "description": "Pricing Rule",
+      "subtopics_count": 21
+    },
+    {
+      "name": "OMEX Auto Creation Of Material Request",
+      "description": "Auto Creation of Material Request",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Opening Stock",
+      "description": "Opening Stock",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Stock Entry",
+      "description": "Stock Entry",
+      "subtopics_count": 20
+    },
+    {
+      "name": "OMEX Accounting Of Inventory Stock",
+      "description": "Accounting Of Inventory Stock",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Shipment",
+      "description": "Shipment",
+      "subtopics_count": 12
+    },
+    {
+      "name": "OMEX Pick List",
+      "description": "Pick List",
+      "subtopics_count": 13
+    },
+    {
+      "name": "OMEX Delivery Trip",
+      "description": "Delivery Trip",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Purchase Receipt",
+      "description": "Purchase Receipt",
+      "subtopics_count": 24
+    },
+    {
+      "name": "OMEX Packing Slip",
+      "description": "Packing Slip",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Putaway Rule",
+      "description": "Putaway Rule",
+      "subtopics_count": 12
+    },
+    {
+      "name": "OMEX Stock Reconciliation",
+      "description": "Stock Reconciliation",
+      "subtopics_count": 13
+    },
+    {
+      "name": "OMEX Stock Reservation",
+      "description": "Stock Reservation",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Perpetual Inventory",
+      "description": "Perpetual Inventory",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Stock Transactions Landed Cost Voucher",
+      "description": "Landed Cost Voucher",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Quality Inspection",
+      "description": "Quality Inspection",
+      "subtopics_count": 12
+    },
+    {
+      "name": "OMEX Stock Inspection",
+      "description": "Stock Inspection",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Serial No",
+      "description": "Serial Number",
+      "subtopics_count": 12
+    },
+    {
+      "name": "OMEX Serial No Naming",
+      "description": "Serial Number Naming",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Batch",
+      "description": "Batch",
+      "subtopics_count": 10
+    },
+    {
+      "name": "OMEX Serial And Batch Bundle",
+      "description": "Serial and Batch Bundle",
+      "subtopics_count": 16
+    },
+    {
+      "name": "OMEX Managing Batch Wise Inventory",
+      "description": "Managing Batch wise Inventory",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Disassembly Order",
+      "description": "Disassembly Order",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Stock Settings",
+      "description": "Stock Settings",
+      "subtopics_count": 26
+    },
+    {
+      "name": "OMEX Stock Reposting Settings",
+      "description": "Stock Reposting Settings",
+      "subtopics_count": 10
+    },
+    {
+      "name": "OMEX Stock Ledger",
+      "description": "Stock Ledger Report",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Stock Level Report",
+      "description": "Stock Level Report",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Bom Explorer",
+      "description": "BOM Explorer",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Closing Stock Balance",
+      "description": "Closing Stock Balance",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Stock Value Account Value Comparison",
+      "description": "Stock Value and Account Value Comparison Report",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Stock Closing Entry",
+      "description": "Stock Closing Entry",
+      "subtopics_count": 5
+    },
+    {
+      "name": "Stock Reposting",
+      "description": "Stock Reposting In OMEX",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Stock Adjustment Cogs With Negative Stock",
+      "description": "Stock Adjustment / COGS with Negative Stock",
+      "subtopics_count": 5
+    },
+    {
+      "name": "Change Valuation Method",
+      "description": "Change Valuation Method",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Workstation",
+      "description": "Workstation",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Operation",
+      "description": "Operation",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Routing",
+      "description": "Routing",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Bill Of Materials",
+      "description": "Bill Of Materials",
+      "subtopics_count": 16
+    },
+    {
+      "name": "OMEX Production Plan",
+      "description": "Production Plan",
+      "subtopics_count": 13
+    },
+    {
+      "name": "OMEX Work Order",
+      "description": "Work Order",
+      "subtopics_count": 19
+    },
+    {
+      "name": "OMEX Manufacturing",
+      "description": "Introduction to Manufacturing",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Manufacturing Settings",
+      "description": "Manufacturing Settings",
+      "subtopics_count": 24
+    },
+    {
+      "name": "OMEX Manufacturing Reports",
+      "description": "Manufacturing Reports",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Job Card",
+      "description": "Job Card",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Production And Material Planning",
+      "description": "Production and Material Planning",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Workstation Type",
+      "description": "Workstation Type",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Managing Multi Level Bom",
+      "description": "Managing Multi-level BOM",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Manufacturing Dashboard",
+      "description": "Manufacturing Dashboard",
+      "subtopics_count": 14
+    },
+    {
+      "name": "OMEX Bom Creator",
+      "description": "Multi-level BOM Creator",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Bom Comparison Tool",
+      "description": "BOM Comparison Tool",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Bom Search",
+      "description": "BOM Search",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Bom Costing In Different Currency",
+      "description": "BOM Costing in different Currency",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Bom Stock Report",
+      "description": "BOM Stock Report",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Bom Update Tool",
+      "description": "BOM Update Tool",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Bom Operation Time",
+      "description": "BOM Operations Time",
+      "subtopics_count": 4
+    },
+    {
+      "name": "Stock Reservation For Work Order",
+      "description": "Stock Reservation for Work Order",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Track Semi Finished Goods",
+      "description": "Track Semi-Finished Goods",
+      "subtopics_count": 14
+    },
+    {
+      "name": "Stock Reservation For Production Plan",
+      "description": "Stock Reservation for Production Plan",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Core Settings",
+      "description": "Core Settings",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Module Settings",
+      "description": "Module Settings",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Subcontracting In OMEX",
+      "description": "Subcontracting in OMEX",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Email",
+      "description": "Email Settings",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Document Naming",
+      "description": "Document Naming",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Workflow",
+      "description": "Workflow",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Printing",
+      "description": "Printing",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Automation",
+      "description": "Automation",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Users",
+      "description": "Users",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Permissions",
+      "description": "Permissions",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Accounting Masters",
+      "description": "Accounting Masters",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Opening And Closing",
+      "description": "Opening and Closing",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX General Ledger",
+      "description": "General Ledger",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Users And Permissions",
+      "description": "Users And Permissions",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Taxes",
+      "description": "Taxes",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Accounting Reports",
+      "description": "Accounting Reports",
+      "subtopics_count": 27
+    },
+    {
+      "name": "OMEX Accounts Receivable And Payable",
+      "description": "Accounts Receivable and Payable",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Role And Role Profile",
+      "description": "Role and Role Profile",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Cost Center And Budgeting",
+      "description": "Cost Center and Budgeting",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Multi Currency Setup",
+      "description": "Multi Currency Setup",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Deferred Accounting",
+      "description": "Deferred Accounting",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Banking In OMEX",
+      "description": "Banking",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Subscription Management",
+      "description": "Subscription Management",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Shareholder Management",
+      "description": "Shareholder Management",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Crm Masters",
+      "description": "CRM Masters",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Sales Pipeline",
+      "description": "Sales Pipeline",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Selling Transactions",
+      "description": "Selling Transactions",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Managing Campaigns",
+      "description": "Managing Campaigns",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Selling Essentials",
+      "description": "Selling Essentials",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Point Of Sale",
+      "description": "Point of Sale",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Stock Masters",
+      "description": "Stock Masters",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Stock Transactions",
+      "description": "Stock Transactions",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Data Import",
+      "description": "Data Import",
+      "subtopics_count": 19
+    },
+    {
+      "name": "OMEX Stock Reports",
+      "description": "Stock Reports",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Data Export",
+      "description": "Data Export",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Bulk Update",
+      "description": "Bulk Update",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Getting Started With OMEX",
+      "description": "Getting Started with OMEX",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Introduction",
+      "description": "Introduction",
+      "subtopics_count": 10
+    },
+    {
+      "name": "OMEX Concepts And Terms",
+      "description": "Concepts and Terms",
+      "subtopics_count": 59
+    },
+    {
+      "name": "OMEX Fiscal Year",
+      "description": "Fiscal Year",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Auto Repeat",
+      "description": "Auto Repeat",
+      "subtopics_count": 14
+    },
+    {
+      "name": "OMEX Journal Entry Template",
+      "description": "Journal Entry Template",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Support",
+      "description": "Support Issues",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Newsletter",
+      "description": "Newsletter",
+      "subtopics_count": 8
+    },
+    {
+      "name": "OMEX Print Headings",
+      "description": "Print Headings",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Chart Of Accounts Importer",
+      "description": "Chart Of Accounts Importer",
+      "subtopics_count": 6
+    },
+    {
+      "name": "OMEX Additional Charges In Payment",
+      "description": "Additional Charges in Payment",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Production And Material Planning Capacity Planning",
+      "description": "Capacity Planning",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Workflow State",
+      "description": "Workflow State",
+      "subtopics_count": 5
+    },
+    {
+      "name": "OMEX Onboarding",
+      "description": "Basics of Manufacturing",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Delete Company Transactions",
+      "description": "Delete Company Transactions",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Role Based Permissions",
+      "description": "Role Based Permissions",
+      "subtopics_count": 7
+    },
+    {
+      "name": "OMEX Accounting Dimensions",
+      "description": "Accounting Dimensions",
+      "subtopics_count": 11
+    },
+    {
+      "name": "OMEX Common Party Accounting",
+      "description": "Common Party Accounting",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Subscription",
+      "description": "Subscription",
+      "subtopics_count": 15
+    },
+    {
+      "name": "OMEX Tax Category",
+      "description": "Tax Category",
+      "subtopics_count": 9
+    },
+    {
+      "name": "OMEX Subscription Settings",
+      "description": "Subscription Settings",
+      "subtopics_count": 4
+    },
+    {
+      "name": "OMEX Implementation Strategy",
+      "description": "Implementation Strategy",
+      "subtopics_count": 8
+    }
+  ]
+}

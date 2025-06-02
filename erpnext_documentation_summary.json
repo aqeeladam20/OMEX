@@ -1,0 +1,1419 @@
+{
+  "total_pages": 176,
+  "failed_urls": 10,
+  "pages": [
+    {
+      "key": "OMEX Supplier Scorecard",
+      "title": "Supplier Scorecard",
+      "headings_count": 16,
+      "sections_count": 14,
+      "text_length": 4919,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/supplier-scorecard"
+    },
+    {
+      "key": "OMEX Purchase Transactions",
+      "title": "Purchase Transactions",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1206,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/purchase-transactions"
+    },
+    {
+      "key": "OMEX Buying Reports",
+      "title": "Buying Reports",
+      "headings_count": 13,
+      "sections_count": 12,
+      "text_length": 2509,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/buying_reports"
+    },
+    {
+      "key": "OMEX Buying",
+      "title": "Introduction to Buying Module",
+      "headings_count": 13,
+      "sections_count": 7,
+      "text_length": 2413,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/buying"
+    },
+    {
+      "key": "OMEX Supplier Essentials",
+      "title": "Supplier Essentials",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 893,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/supplier-essentials"
+    },
+    {
+      "key": "Discounts",
+      "title": "Applying Discounts",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 656,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/discounts"
+    },
+    {
+      "key": "Taxes",
+      "title": "Taxes",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 715,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/taxes"
+    },
+    {
+      "key": "OMEX Purchase Order",
+      "title": "Purchase Order",
+      "headings_count": 29,
+      "sections_count": 26,
+      "text_length": 10511,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/purchase-order"
+    },
+    {
+      "key": "OMEX Material Request",
+      "title": "Material Request",
+      "headings_count": 32,
+      "sections_count": 16,
+      "text_length": 10692,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/material-request"
+    },
+    {
+      "key": "OMEX Buying Settings",
+      "title": "Buying Settings",
+      "headings_count": 50,
+      "sections_count": 24,
+      "text_length": 15031,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/buying-settings"
+    },
+    {
+      "key": "OMEX Purchase Invoice",
+      "title": "Purchase Invoice",
+      "headings_count": 42,
+      "sections_count": 38,
+      "text_length": 15793,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/purchase-invoice"
+    },
+    {
+      "key": "OMEX Debit Note",
+      "title": "Debit Note",
+      "headings_count": 11,
+      "sections_count": 10,
+      "text_length": 2158,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/debit-note"
+    },
+    {
+      "key": "OMEX Request For Quotation",
+      "title": "Request for Quotation",
+      "headings_count": 22,
+      "sections_count": 18,
+      "text_length": 8462,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/request-for-quotation"
+    },
+    {
+      "key": "OMEX Supplier Quotation",
+      "title": "Supplier Quotation",
+      "headings_count": 15,
+      "sections_count": 12,
+      "text_length": 3949,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/supplier-quotation"
+    },
+    {
+      "key": "OMEX How To Create A Supplier Quotation Through The Supplier Portal",
+      "title": "Create Supplier Quotation through Supplier Portal",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1777,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/how-to-create-a-supplier-quotation-through-the-supplier-portal"
+    },
+    {
+      "key": "OMEX Supplier Group",
+      "title": "Supplier Group",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 2800,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/supplier-group"
+    },
+    {
+      "key": "OMEX Supplier",
+      "title": "Supplier",
+      "headings_count": 18,
+      "sections_count": 16,
+      "text_length": 7569,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/supplier"
+    },
+    {
+      "key": "OMEX Customer",
+      "title": "Customer",
+      "headings_count": 19,
+      "sections_count": 18,
+      "text_length": 5880,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/customer"
+    },
+    {
+      "key": "OMEX Customer Group",
+      "title": "Customer Group",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 2366,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/customer-group"
+    },
+    {
+      "key": "OMEX Purchase Return",
+      "title": "Purchase Return",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 2122,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/purchase-return"
+    },
+    {
+      "key": "OMEX Sales Person",
+      "title": "Sales Person",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 1623,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-person"
+    },
+    {
+      "key": "OMEX Sales Partner",
+      "title": "Sales Partner",
+      "headings_count": 17,
+      "sections_count": 14,
+      "text_length": 3185,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-partner"
+    },
+    {
+      "key": "OMEX Territory",
+      "title": "Territory",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 1555,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/territory"
+    },
+    {
+      "key": "OMEX Sales Order",
+      "title": "Sales Order",
+      "headings_count": 30,
+      "sections_count": 27,
+      "text_length": 10985,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-order"
+    },
+    {
+      "key": "OMEX Sales Invoice",
+      "title": "Sales Invoice",
+      "headings_count": 43,
+      "sections_count": 39,
+      "text_length": 16081,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-invoice"
+    },
+    {
+      "key": "OMEX Quotation",
+      "title": "Quotation",
+      "headings_count": 25,
+      "sections_count": 22,
+      "text_length": 9125,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/quotation"
+    },
+    {
+      "key": "OMEX Credit Note",
+      "title": "Credit Note",
+      "headings_count": 11,
+      "sections_count": 10,
+      "text_length": 2420,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/credit-note"
+    },
+    {
+      "key": "OMEX Blanket Order",
+      "title": "Blanket Order",
+      "headings_count": 14,
+      "sections_count": 12,
+      "text_length": 2571,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/blanket-order"
+    },
+    {
+      "key": "OMEX Drop Shipping In OMEX",
+      "title": "Drop Ship",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 2007,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/drop-shipping-in-OMEX"
+    },
+    {
+      "key": "OMEX Delivery Note",
+      "title": "Delivery Note",
+      "headings_count": 36,
+      "sections_count": 33,
+      "text_length": 12201,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/delivery-note"
+    },
+    {
+      "key": "OMEX Point Of Sales",
+      "title": "Point of Sale",
+      "headings_count": 31,
+      "sections_count": 17,
+      "text_length": 12975,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/point-of-sales"
+    },
+    {
+      "key": "OMEX Sales Return",
+      "title": "Sales Return",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 2266,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-return"
+    },
+    {
+      "key": "OMEX Pos Invoice Consolidation",
+      "title": "POS Invoice Consolidation",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 2880,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/pos_invoice_consolidation"
+    },
+    {
+      "key": "OMEX Pos Profile",
+      "title": "Point of Sale Profile",
+      "headings_count": 19,
+      "sections_count": 16,
+      "text_length": 6267,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/pos-profile"
+    },
+    {
+      "key": "OMEX Loyalty Program",
+      "title": "Loyalty Program",
+      "headings_count": 15,
+      "sections_count": 13,
+      "text_length": 5513,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/loyalty-program"
+    },
+    {
+      "key": "OMEX Loyalty Points Redemption In Pos",
+      "title": "Loyalty points redemption in POS",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1212,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/loyalty-points-redemption-in-pos"
+    },
+    {
+      "key": "OMEX Selling Settings",
+      "title": "Selling Settings",
+      "headings_count": 30,
+      "sections_count": 26,
+      "text_length": 7883,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/selling-settings"
+    },
+    {
+      "key": "OMEX Sales Analytics",
+      "title": "Sales Reports",
+      "headings_count": 9,
+      "sections_count": 8,
+      "text_length": 4046,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-analytics"
+    },
+    {
+      "key": "Stock Entries",
+      "title": "Stock Entries",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 717,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/stock-entries"
+    },
+    {
+      "key": "Opening Stock",
+      "title": "Opening Stock",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 734,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/opening-stock"
+    },
+    {
+      "key": "Item",
+      "title": "Item and Pricing",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 722,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/item"
+    },
+    {
+      "key": "Batch Inventory",
+      "title": "Batch Inventory",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 867,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/batch-inventory"
+    },
+    {
+      "key": "Item Variant",
+      "title": "Item Variant",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 689,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/item-variant"
+    },
+    {
+      "key": "Serialized Inventory",
+      "title": "Serialized Inventory",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1015,
+      "url": "https://docs.frappe.io/OMEX/v13/user/videos/learn/serialized-inventory"
+    },
+    {
+      "key": "OMEX Item",
+      "title": "Item",
+      "headings_count": 34,
+      "sections_count": 31,
+      "text_length": 22204,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/item"
+    },
+    {
+      "key": "OMEX Item Group",
+      "title": "Item Group",
+      "headings_count": 14,
+      "sections_count": 13,
+      "text_length": 3048,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/item-group"
+    },
+    {
+      "key": "OMEX Brand",
+      "title": "Brand",
+      "headings_count": 12,
+      "sections_count": 10,
+      "text_length": 2284,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/brand"
+    },
+    {
+      "key": "OMEX Product Bundle",
+      "title": "Product Bundle",
+      "headings_count": 13,
+      "sections_count": 11,
+      "text_length": 3908,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/product-bundle"
+    },
+    {
+      "key": "OMEX Manufacturer",
+      "title": "Manufacturer",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 1444,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/manufacturer"
+    },
+    {
+      "key": "OMEX Item Variants",
+      "title": "Item Variants",
+      "headings_count": 15,
+      "sections_count": 11,
+      "text_length": 3751,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/item-variants"
+    },
+    {
+      "key": "OMEX Item Alternative",
+      "title": "Item Alternative",
+      "headings_count": 12,
+      "sections_count": 11,
+      "text_length": 2768,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/item-alternative"
+    },
+    {
+      "key": "OMEX Item Attribute",
+      "title": "Item Attribute",
+      "headings_count": 11,
+      "sections_count": 10,
+      "text_length": 1569,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/item-attribute"
+    },
+    {
+      "key": "OMEX Warehouse",
+      "title": "Warehouse",
+      "headings_count": 14,
+      "sections_count": 12,
+      "text_length": 3832,
+      "url": "https://docs.frappe.io/OMEX/v13/user/manual/en/stock/warehouse"
+    },
+    {
+      "key": "OMEX Uom",
+      "title": "Unit of Measure (UoM)",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1263,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/uom"
+    },
+    {
+      "key": "OMEX Managing Fractions In Uom",
+      "title": "Managing Fractions in UOM",
+      "headings_count": 9,
+      "sections_count": 8,
+      "text_length": 1736,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/managing-fractions-in-uom"
+    },
+    {
+      "key": "OMEX Inventory Dimension",
+      "title": "Inventory Dimension",
+      "headings_count": 15,
+      "sections_count": 12,
+      "text_length": 4290,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/inventory_dimension"
+    },
+    {
+      "key": "OMEX Pricing",
+      "title": "Pricing",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1266,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/pricing"
+    },
+    {
+      "key": "OMEX Price Lists",
+      "title": "Price Lists",
+      "headings_count": 8,
+      "sections_count": 7,
+      "text_length": 2305,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/price-lists"
+    },
+    {
+      "key": "OMEX Item Price",
+      "title": "Item Price",
+      "headings_count": 19,
+      "sections_count": 16,
+      "text_length": 3676,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/item-price"
+    },
+    {
+      "key": "OMEX Setup Shipping Rule",
+      "title": "Shipping Rule",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 1924,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/setup-shipping-rule"
+    },
+    {
+      "key": "OMEX Pricing Rule",
+      "title": "Pricing Rule",
+      "headings_count": 45,
+      "sections_count": 21,
+      "text_length": 18250,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/pricing-rule"
+    },
+    {
+      "key": "OMEX Auto Creation Of Material Request",
+      "title": "Auto Creation of Material Request",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 2245,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/auto-creation-of-material-request"
+    },
+    {
+      "key": "OMEX Opening Stock",
+      "title": "Opening Stock",
+      "headings_count": 15,
+      "sections_count": 8,
+      "text_length": 2506,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/opening-stock"
+    },
+    {
+      "key": "OMEX Stock Entry",
+      "title": "Stock Entry",
+      "headings_count": 42,
+      "sections_count": 20,
+      "text_length": 15476,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-entry"
+    },
+    {
+      "key": "OMEX Accounting Of Inventory Stock",
+      "title": "Accounting Of Inventory Stock",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 3646,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/accounting-of-inventory-stock"
+    },
+    {
+      "key": "OMEX Shipment",
+      "title": "Shipment",
+      "headings_count": 15,
+      "sections_count": 13,
+      "text_length": 3743,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/shipment"
+    },
+    {
+      "key": "OMEX Pick List",
+      "title": "Pick List",
+      "headings_count": 16,
+      "sections_count": 14,
+      "text_length": 6613,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/pick-list"
+    },
+    {
+      "key": "OMEX Delivery Trip",
+      "title": "Delivery Trip",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 1583,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/delivery-trip"
+    },
+    {
+      "key": "OMEX Purchase Receipt",
+      "title": "Purchase Receipt",
+      "headings_count": 28,
+      "sections_count": 25,
+      "text_length": 10136,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/purchase-receipt"
+    },
+    {
+      "key": "OMEX Packing Slip",
+      "title": "Packing Slip",
+      "headings_count": 14,
+      "sections_count": 12,
+      "text_length": 2961,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/packing-slip"
+    },
+    {
+      "key": "OMEX Putaway Rule",
+      "title": "Putaway Rule",
+      "headings_count": 15,
+      "sections_count": 13,
+      "text_length": 4149,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/putaway-rule"
+    },
+    {
+      "key": "OMEX Stock Reconciliation",
+      "title": "Stock Reconciliation",
+      "headings_count": 16,
+      "sections_count": 14,
+      "text_length": 9625,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-reconciliation"
+    },
+    {
+      "key": "OMEX Stock Reservation",
+      "title": "Stock Reservation",
+      "headings_count": 12,
+      "sections_count": 11,
+      "text_length": 2280,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-reservation"
+    },
+    {
+      "key": "OMEX Perpetual Inventory",
+      "title": "Perpetual Inventory",
+      "headings_count": 17,
+      "sections_count": 16,
+      "text_length": 5960,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/perpetual-inventory"
+    },
+    {
+      "key": "OMEX Stock Transactions Landed Cost Voucher",
+      "title": "Landed Cost Voucher",
+      "headings_count": 12,
+      "sections_count": 10,
+      "text_length": 5982,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-transactions-landed-cost-voucher"
+    },
+    {
+      "key": "OMEX Quality Inspection",
+      "title": "Quality Inspection",
+      "headings_count": 15,
+      "sections_count": 13,
+      "text_length": 6202,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/quality-inspection"
+    },
+    {
+      "key": "OMEX Stock Inspection",
+      "title": "Stock Inspection",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1354,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-inspection"
+    },
+    {
+      "key": "OMEX Serial No",
+      "title": "Serial Number",
+      "headings_count": 16,
+      "sections_count": 13,
+      "text_length": 3633,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/serial-no"
+    },
+    {
+      "key": "OMEX Serial No Naming",
+      "title": "Serial Number Naming",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 2314,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/serial-no-naming"
+    },
+    {
+      "key": "OMEX Batch",
+      "title": "Batch",
+      "headings_count": 13,
+      "sections_count": 11,
+      "text_length": 3525,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/batch"
+    },
+    {
+      "key": "OMEX Serial And Batch Bundle",
+      "title": "Serial and Batch Bundle",
+      "headings_count": 19,
+      "sections_count": 17,
+      "text_length": 6149,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/serial-and-batch-bundle"
+    },
+    {
+      "key": "OMEX Managing Batch Wise Inventory",
+      "title": "Managing Batch wise Inventory",
+      "headings_count": 9,
+      "sections_count": 8,
+      "text_length": 1553,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/managing-batch-wise-inventory"
+    },
+    {
+      "key": "OMEX Disassembly Order",
+      "title": "Disassembly Order",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1283,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/disassembly-order"
+    },
+    {
+      "key": "OMEX Stock Settings",
+      "title": "Stock Settings",
+      "headings_count": 56,
+      "sections_count": 26,
+      "text_length": 13693,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-settings"
+    },
+    {
+      "key": "OMEX Stock Reposting Settings",
+      "title": "Stock Reposting Settings",
+      "headings_count": 16,
+      "sections_count": 10,
+      "text_length": 4124,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-reposting-settings"
+    },
+    {
+      "key": "OMEX Stock Ledger",
+      "title": "Stock Ledger Report",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 2227,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-ledger"
+    },
+    {
+      "key": "OMEX Stock Level Report",
+      "title": "Stock Level Report",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 1779,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-level-report"
+    },
+    {
+      "key": "OMEX Bom Explorer",
+      "title": "BOM Explorer",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1015,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom_explorer"
+    },
+    {
+      "key": "OMEX Closing Stock Balance",
+      "title": "Closing Stock Balance",
+      "headings_count": 9,
+      "sections_count": 5,
+      "text_length": 5591,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/closing-stock-balance"
+    },
+    {
+      "key": "OMEX Stock Value Account Value Comparison",
+      "title": "Stock Value and Account Value Comparison Report",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1166,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-value-account-value-comparison"
+    },
+    {
+      "key": "Stock Closing Entry",
+      "title": "Stock Closing Entry",
+      "headings_count": 7,
+      "sections_count": 5,
+      "text_length": 2503,
+      "url": "https://docs.frappe.io/OMEX/stock-closing-entry"
+    },
+    {
+      "key": "Stock Reposting",
+      "title": "Stock Reposting In OMEX",
+      "headings_count": 5,
+      "sections_count": 4,
+      "text_length": 2540,
+      "url": "https://docs.frappe.io/OMEX/stock-reposting"
+    },
+    {
+      "key": "OMEX Stock Adjustment Cogs With Negative Stock",
+      "title": "Stock Adjustment / COGS with Negative Stock",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 3109,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-adjustment-cogs-with-negative-stock"
+    },
+    {
+      "key": "Change Valuation Method",
+      "title": "Change Valuation Method",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1253,
+      "url": "https://docs.frappe.io/OMEX/change-valuation-method"
+    },
+    {
+      "key": "OMEX Workstation",
+      "title": "Workstation",
+      "headings_count": 13,
+      "sections_count": 10,
+      "text_length": 2388,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/workstation"
+    },
+    {
+      "key": "OMEX Operation",
+      "title": "Operation",
+      "headings_count": 10,
+      "sections_count": 8,
+      "text_length": 1732,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/operation"
+    },
+    {
+      "key": "OMEX Routing",
+      "title": "Routing",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 1796,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/routing"
+    },
+    {
+      "key": "OMEX Bill Of Materials",
+      "title": "Bill Of Materials",
+      "headings_count": 20,
+      "sections_count": 17,
+      "text_length": 10176,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bill-of-materials"
+    },
+    {
+      "key": "OMEX Production Plan",
+      "title": "Production Plan",
+      "headings_count": 15,
+      "sections_count": 14,
+      "text_length": 5927,
+      "url": "https://docs.frappe.io/OMEX/v13/user/manual/en/manufacturing/production-plan"
+    },
+    {
+      "key": "OMEX Work Order",
+      "title": "Work Order",
+      "headings_count": 23,
+      "sections_count": 20,
+      "text_length": 11327,
+      "url": "https://docs.frappe.io/OMEX/v13/user/manual/en/manufacturing/work-order"
+    },
+    {
+      "key": "OMEX Manufacturing",
+      "title": "Introduction to Manufacturing",
+      "headings_count": 7,
+      "sections_count": 5,
+      "text_length": 3515,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/manufacturing"
+    },
+    {
+      "key": "OMEX Manufacturing Settings",
+      "title": "Manufacturing Settings",
+      "headings_count": 55,
+      "sections_count": 24,
+      "text_length": 10735,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/manufacturing-settings"
+    },
+    {
+      "key": "OMEX Manufacturing Reports",
+      "title": "Manufacturing Reports",
+      "headings_count": 13,
+      "sections_count": 12,
+      "text_length": 1868,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/manufacturing-reports"
+    },
+    {
+      "key": "OMEX Job Card",
+      "title": "Job Card",
+      "headings_count": 14,
+      "sections_count": 12,
+      "text_length": 4468,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/job-card"
+    },
+    {
+      "key": "OMEX Production And Material Planning",
+      "title": "Production and Material Planning",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1454,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/production-and-material-planning"
+    },
+    {
+      "key": "OMEX Workstation Type",
+      "title": "Workstation Type",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1466,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/workstation_type"
+    },
+    {
+      "key": "OMEX Managing Multi Level Bom",
+      "title": "Managing Multi-level BOM",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 3018,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/managing-multi-level-bom"
+    },
+    {
+      "key": "OMEX Manufacturing Dashboard",
+      "title": "Manufacturing Dashboard",
+      "headings_count": 16,
+      "sections_count": 15,
+      "text_length": 3872,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/manufacturing-dashboard"
+    },
+    {
+      "key": "OMEX Bom Creator",
+      "title": "Multi-level BOM Creator",
+      "headings_count": 8,
+      "sections_count": 7,
+      "text_length": 1837,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom-creator"
+    },
+    {
+      "key": "OMEX Bom Comparison Tool",
+      "title": "BOM Comparison Tool",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 1366,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom-comparison-tool"
+    },
+    {
+      "key": "OMEX Bom Search",
+      "title": "BOM Search",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 788,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom-search"
+    },
+    {
+      "key": "OMEX Bom Costing In Different Currency",
+      "title": "BOM Costing in different Currency",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1575,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom-costing-in-different-currency"
+    },
+    {
+      "key": "OMEX Bom Stock Report",
+      "title": "BOM Stock Report",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 951,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom-stock-report"
+    },
+    {
+      "key": "OMEX Bom Update Tool",
+      "title": "BOM Update Tool",
+      "headings_count": 8,
+      "sections_count": 7,
+      "text_length": 2878,
+      "url": "http://docs.frappe.io/OMEX/user/manual/en/bom-update-tool"
+    },
+    {
+      "key": "OMEX Bom Operation Time",
+      "title": "BOM Operations Time",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 839,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bom-operation-time"
+    },
+    {
+      "key": "Stock Reservation For Work Order",
+      "title": "Stock Reservation for Work Order",
+      "headings_count": 13,
+      "sections_count": 8,
+      "text_length": 3499,
+      "url": "https://docs.frappe.io/OMEX/stock-reservation-for-work-order"
+    },
+    {
+      "key": "OMEX Track Semi Finished Goods",
+      "title": "Track Semi-Finished Goods",
+      "headings_count": 31,
+      "sections_count": 14,
+      "text_length": 11415,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/track-semi-finished-goods"
+    },
+    {
+      "key": "Stock Reservation For Production Plan",
+      "title": "Stock Reservation for Production Plan",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 1871,
+      "url": "https://docs.frappe.io/OMEX/stock-reservation-for-production-plan"
+    },
+    {
+      "key": "OMEX Core Settings",
+      "title": "Core Settings",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 923,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/core-settings"
+    },
+    {
+      "key": "OMEX Module Settings",
+      "title": "Module Settings",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1148,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/module-settings"
+    },
+    {
+      "key": "OMEX Subcontracting In OMEX",
+      "title": "Subcontracting in OMEX",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 3705,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/subcontracting-in-OMEX"
+    },
+    {
+      "key": "OMEX Email",
+      "title": "Email Settings",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1259,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/email"
+    },
+    {
+      "key": "OMEX Document Naming",
+      "title": "Document Naming",
+      "headings_count": 5,
+      "sections_count": 4,
+      "text_length": 1732,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/document-naming"
+    },
+    {
+      "key": "OMEX Workflow",
+      "title": "Workflow",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1124,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/workflow"
+    },
+    {
+      "key": "OMEX Printing",
+      "title": "Printing",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1128,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/printing"
+    },
+    {
+      "key": "OMEX Automation",
+      "title": "Automation",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 925,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/automation"
+    },
+    {
+      "key": "OMEX Users",
+      "title": "Users",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 863,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/users"
+    },
+    {
+      "key": "OMEX Permissions",
+      "title": "Permissions",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 875,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/permissions"
+    },
+    {
+      "key": "OMEX Accounting Masters",
+      "title": "Accounting Masters",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1127,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/accounting-masters"
+    },
+    {
+      "key": "OMEX Opening And Closing",
+      "title": "Opening and Closing",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1595,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/opening-and-closing"
+    },
+    {
+      "key": "OMEX General Ledger",
+      "title": "General Ledger",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1032,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/general-ledger"
+    },
+    {
+      "key": "OMEX Users And Permissions",
+      "title": "Users And Permissions",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 1477,
+      "url": "https://docs.frappe.io/OMEX/v13/user/manual/en/setting-up/users-and-permissions"
+    },
+    {
+      "key": "OMEX Taxes",
+      "title": "Taxes",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 2044,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/taxes"
+    },
+    {
+      "key": "OMEX Accounting Reports",
+      "title": "Accounting Reports",
+      "headings_count": 38,
+      "sections_count": 28,
+      "text_length": 11396,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/accounting-reports"
+    },
+    {
+      "key": "OMEX Accounts Receivable And Payable",
+      "title": "Accounts Receivable and Payable",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1613,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/accounts-receivable-and-payable"
+    },
+    {
+      "key": "OMEX Role And Role Profile",
+      "title": "Role and Role Profile",
+      "headings_count": 9,
+      "sections_count": 8,
+      "text_length": 2312,
+      "url": "https://docs.frappe.io/OMEX/v13/user/manual/en/setting-up/users-and-permissions/role-and-role-profile"
+    },
+    {
+      "key": "OMEX Cost Center And Budgeting",
+      "title": "Cost Center and Budgeting",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1295,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/cost-center-and-budgeting"
+    },
+    {
+      "key": "OMEX Multi Currency Setup",
+      "title": "Multi Currency Setup",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1103,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/multi-currency-setup"
+    },
+    {
+      "key": "OMEX Deferred Accounting",
+      "title": "Deferred Accounting",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1085,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/deferred-accounting"
+    },
+    {
+      "key": "OMEX Banking In OMEX",
+      "title": "Banking",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1097,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/banking-in-OMEX"
+    },
+    {
+      "key": "OMEX Subscription Management",
+      "title": "Subscription Management",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1130,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/subscription-management"
+    },
+    {
+      "key": "OMEX Shareholder Management",
+      "title": "Shareholder Management",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 764,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/shareholder-management"
+    },
+    {
+      "key": "OMEX Crm Masters",
+      "title": "CRM Masters",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1127,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/crm-masters"
+    },
+    {
+      "key": "OMEX Sales Pipeline",
+      "title": "Sales Pipeline",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1146,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/sales-pipeline"
+    },
+    {
+      "key": "OMEX Selling Transactions",
+      "title": "Selling Transactions",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1086,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/selling-transactions"
+    },
+    {
+      "key": "OMEX Managing Campaigns",
+      "title": "Managing Campaigns",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1164,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/managing-campaigns"
+    },
+    {
+      "key": "OMEX Selling Essentials",
+      "title": "Selling Essentials",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1023,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/selling-essentials"
+    },
+    {
+      "key": "OMEX Point Of Sale",
+      "title": "Point of Sale",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1340,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/point-of-sale"
+    },
+    {
+      "key": "OMEX Stock Masters",
+      "title": "Stock Masters",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1260,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-masters"
+    },
+    {
+      "key": "OMEX Stock Transactions",
+      "title": "Stock Transactions",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1478,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-transactions"
+    },
+    {
+      "key": "OMEX Data Import",
+      "title": "Data Import",
+      "headings_count": 24,
+      "sections_count": 20,
+      "text_length": 6970,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/data-import"
+    },
+    {
+      "key": "OMEX Stock Reports",
+      "title": "Stock Reports",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1099,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/stock-reports"
+    },
+    {
+      "key": "OMEX Data Export",
+      "title": "Data Export",
+      "headings_count": 7,
+      "sections_count": 5,
+      "text_length": 1976,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/data-export"
+    },
+    {
+      "key": "OMEX Bulk Update",
+      "title": "Bulk Update",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 1467,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/bulk-update"
+    },
+    {
+      "key": "OMEX Getting Started With OMEX",
+      "title": "Getting Started with OMEX",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1847,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/getting-started-with-OMEX"
+    },
+    {
+      "key": "OMEX Introduction",
+      "title": "Introduction",
+      "headings_count": 12,
+      "sections_count": 11,
+      "text_length": 3376,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/introduction"
+    },
+    {
+      "key": "OMEX Concepts And Terms",
+      "title": "Concepts and Terms",
+      "headings_count": 70,
+      "sections_count": 60,
+      "text_length": 10210,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/concepts-and-terms"
+    },
+    {
+      "key": "OMEX Fiscal Year",
+      "title": "Fiscal Year",
+      "headings_count": 8,
+      "sections_count": 7,
+      "text_length": 2632,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/fiscal-year"
+    },
+    {
+      "key": "OMEX Auto Repeat",
+      "title": "Auto Repeat",
+      "headings_count": 18,
+      "sections_count": 15,
+      "text_length": 5321,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/auto-repeat"
+    },
+    {
+      "key": "OMEX Journal Entry Template",
+      "title": "Journal Entry Template",
+      "headings_count": 8,
+      "sections_count": 7,
+      "text_length": 2131,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/journal-entry-template"
+    },
+    {
+      "key": "OMEX Support",
+      "title": "Support Issues",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 891,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/support"
+    },
+    {
+      "key": "OMEX Newsletter",
+      "title": "Newsletter",
+      "headings_count": 11,
+      "sections_count": 9,
+      "text_length": 2173,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/newsletter"
+    },
+    {
+      "key": "OMEX Print Headings",
+      "title": "Print Headings",
+      "headings_count": 9,
+      "sections_count": 7,
+      "text_length": 1413,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/print-headings"
+    },
+    {
+      "key": "OMEX Chart Of Accounts Importer",
+      "title": "Chart Of Accounts Importer",
+      "headings_count": 8,
+      "sections_count": 7,
+      "text_length": 2536,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/chart-of-accounts-importer"
+    },
+    {
+      "key": "OMEX Additional Charges In Payment",
+      "title": "Additional Charges in Payment",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1120,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/additional-charges-in-payment"
+    },
+    {
+      "key": "OMEX Production And Material Planning Capacity Planning",
+      "title": "Capacity Planning",
+      "headings_count": 13,
+      "sections_count": 12,
+      "text_length": 3204,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/production-and-material-planning-capacity-planning"
+    },
+    {
+      "key": "OMEX Workflow State",
+      "title": "Workflow State",
+      "headings_count": 7,
+      "sections_count": 6,
+      "text_length": 1376,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/workflow-state"
+    },
+    {
+      "key": "OMEX Onboarding",
+      "title": "Basics of Manufacturing",
+      "headings_count": 11,
+      "sections_count": 10,
+      "text_length": 3525,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/onboarding"
+    },
+    {
+      "key": "OMEX Delete Company Transactions",
+      "title": "Delete Company Transactions",
+      "headings_count": 9,
+      "sections_count": 8,
+      "text_length": 1924,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/delete_company_transactions"
+    },
+    {
+      "key": "OMEX Role Based Permissions",
+      "title": "Role Based Permissions",
+      "headings_count": 9,
+      "sections_count": 8,
+      "text_length": 5117,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/role-based-permissions"
+    },
+    {
+      "key": "OMEX Accounting Dimensions",
+      "title": "Accounting Dimensions",
+      "headings_count": 13,
+      "sections_count": 12,
+      "text_length": 3375,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/accounting-dimensions"
+    },
+    {
+      "key": "OMEX Common Party Accounting",
+      "title": "Common Party Accounting",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1641,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/common_party_accounting"
+    },
+    {
+      "key": "OMEX Subscription",
+      "title": "Subscription",
+      "headings_count": 19,
+      "sections_count": 16,
+      "text_length": 4938,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/subscription"
+    },
+    {
+      "key": "OMEX Tax Category",
+      "title": "Tax Category",
+      "headings_count": 11,
+      "sections_count": 10,
+      "text_length": 2577,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/tax-category"
+    },
+    {
+      "key": "OMEX Subscription Settings",
+      "title": "Subscription Settings",
+      "headings_count": 6,
+      "sections_count": 5,
+      "text_length": 1022,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/subscription-settings"
+    },
+    {
+      "key": "OMEX Implementation Strategy",
+      "title": "Implementation Strategy",
+      "headings_count": 10,
+      "sections_count": 9,
+      "text_length": 7062,
+      "url": "https://docs.frappe.io/OMEX/user/manual/en/implementation-strategy"
+    }
+  ],
+  "modules_covered": [
+    "Manufacturing",
+    "Stock"
+  ],
+  "topics_covered": []
+}
